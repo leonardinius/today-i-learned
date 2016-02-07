@@ -3,7 +3,7 @@
 I've recently discovered useful Git configuration snippet which I now use daily
 as a means temporal backup before pulls & merges.
 
-Snippet credits goes to [jusinml](https://github.com/justinmk).
+Snippet credits goes to [jusinmk](https://github.com/justinmk).
 
 Here it goes.
 
