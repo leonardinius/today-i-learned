@@ -14,3 +14,9 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 - [Git](#git)
 
 ---
+
+### git
+
+- [Git Autosave](git/autosave.md)
+- [Git Accessing Lost commit](git/accessing-lost-commit.md)
+- [Git Signing Your commit](git/sign-your-commit.md)
