@@ -17,10 +17,10 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 
 ### git
 
+- [Git Worktrees](git/worktrees.md)
 - [Git Autosave](git/autosave.md)
 - [Git Accessing Lost commit](git/accessing-lost-commit.md)
 - [Git Signing Your commit](git/sign-your-commit.md)
-- [Git Worktrees](git/worktrees.md)
 
 ### virtual (VMs, containers, networks, etc ..)
 
