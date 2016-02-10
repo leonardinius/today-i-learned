@@ -53,3 +53,6 @@ server {
 ...
 }
 
+
+
+20 7    2 * *   root    cd /tmp/ && /var/lib/letsencrypt/renew-site.sh xxx.yyy.com && service nginx reload
