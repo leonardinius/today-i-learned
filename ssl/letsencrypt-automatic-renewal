@@ -1,4 +1,4 @@
-root@redmine:~# cat  /var/lib/letsencrypt/renew-site.sh
+cat  /var/lib/letsencrypt/renew-site.sh
 #!/bin/bash
 
 set -e
@@ -14,7 +14,7 @@ set -o pipefail
   -m 'hostmaster@galeoconsulting.com' \
   certonly -d "${1}"
 
-root@redmine:~#
+
 
 
 
