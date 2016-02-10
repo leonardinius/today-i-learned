@@ -21,3 +21,7 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 - [Git Accessing Lost commit](git/accessing-lost-commit.md)
 - [Git Signing Your commit](git/sign-your-commit.md)
 - [Git Worktrees](git/worktrees.md)
+
+### virtual (VMs, containers, networks, etc ..)
+
+- [Virtualbox Windows Firewall port forwarding](virtualization/vb-win-firewall-port-forwarding.md)
