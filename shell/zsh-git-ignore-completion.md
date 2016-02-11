@@ -1,9 +1,27 @@
-https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/gitignore/gitignore.plugin.zsh
+# Oh My ZSH `gi` git-ignore plugin
+Here it is: [gitignore.plugin.zsh][1]
+
+It's installed as usually in `~/.zshrc` file.
+
+## What does it do?
+It integrates with excellent [gitignore.io][2] and provides the following:
+- available `.gitignore` templates auto completion
+- the named `.gitignore` templates fetch
+
+<!-- References -->
+[1]: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/gitignore/gitignore.plugin.zsh "gitignore zsh plugin"
+[2]: https://www.gitignore.io/ "gitignore.io"
+
+## Usage examples
+
+**Let's see that's availablle**
 
 ```console
 λ /test4/ master* gi
 zsh: do you wish to see all 253 possibilities (64 lines)?
 ```
+
+**Lest's search for `e`**
 
 ```console
 λ /test4/ master* gi e
@@ -12,7 +30,11 @@ easybook          elasticbeanstalk  elm               episerver         expressi
 eclipse           elisp             emacs             erlang            extjs
 ```
 
-``` console
+It's a lot. Let's be more specific.
+
+**Let's fetch my favorite Intellij snippet**
+
+```console
 λ /test4/ master* gi intellij | tee -a .gitignore
 
 # Created by https://www.gitignore.io/api/intellij
@@ -76,3 +98,9 @@ atlassian-ide-plugin.xml
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
+```
+
+Here you go. Specific, carefully crafted and documented. Enjoy.
+
+_Vuala_
+
