@@ -12,6 +12,9 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 ### Categories
 
 - [Git](#git)
+- [Shell](#shell)
+- [SSL](#SSL)
+- [Virtual VMs (containers, Virtualbox etc)](#virtual)
 
 ---
 
@@ -30,6 +33,6 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 
 - [Let's encrypt HTTPS for free static HTML version](ssl/letsencrypt-https-for-free-html.md)
 
-### virtual (VMs, containers, networks, etc ..)
+### virtual
 
 - [Virtualbox Windows Firewall port forwarding](virtualization/vb-win-firewall-port-forwarding.md)
