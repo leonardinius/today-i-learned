@@ -1,6 +1,6 @@
 # Shell: check tcp port
 
-Periodically I find myself in th need to check for TCP port availability; and
+Periodically I find myself in the need to check for TCP port availability; and
 no convenient tools available and not possible to install one.
 
 Usually I use `netcat -z -v cidrc port` or telnet.
