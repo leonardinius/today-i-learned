@@ -4,7 +4,7 @@ In the recent project some modules heavily depend on [APT][apt] (Annotation
 Processing Tool).
 
 As it stands out - IntelliJ supports both APT and
-[javax.annotation.processing][processing] infrastructure.
+["javax.annotation.processing"][processing] infrastructure.
 
 Here you go:
 
