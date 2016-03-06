@@ -29,7 +29,7 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 
 ### IDE
 
-- [IntelliJ Annotation Processing][ide/intellij-annotation-processing.md]
+- [IntelliJ Annotation Processing](ide/intellij-annotation-processing.md)
 
 ### SSL
 
