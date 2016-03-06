@@ -12,26 +12,33 @@ smart people at [Galeoconsulting](https://www.galeoconsulting.com/).
 ### Categories
 
 - [Git](#git)
-- [Shell](#shell)
+- [IDE](#ide)
 - [SSL](#SSL)
+- [Shell](#shell)
 - [Virtual VMs (containers, Virtualbox etc)](#virtual)
 
 ---
 
 ### git
 
-- [Git Worktrees](git/worktrees.md)
-- [Git Autosave](git/autosave.md)
 - [Git Accessing Lost commit](git/accessing-lost-commit.md)
+- [Git Add Interactive Staging](git/git-add-p-interactive-staging.md)
+- [Git Autosave](git/autosave.md)
 - [Git Signing Your commit](git/sign-your-commit.md)
+- [Git Worktrees](git/worktrees.md)
 
-### shell
+### IDE
 
-- [ZSH Git Ignore autocompletion](shell/zsh-git-ignore-completion.md)
+- [IntelliJ Annotation Processing][ide/intellij-annotation-processing.md]
 
 ### SSL
 
 - [Let's encrypt HTTPS for free static HTML version](ssl/letsencrypt-https-for-free-html.md)
+
+### shell
+
+- [Bash Check TCP Port Connectivity](shell/bash-check-port--dev-tcp.md)
+- [ZSH Git Ignore autocompletion](shell/zsh-git-ignore-completion.md)
 
 ### virtual
 
