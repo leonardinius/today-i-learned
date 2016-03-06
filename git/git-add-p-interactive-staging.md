@@ -4,10 +4,8 @@ Interactive staging (or `git add -p`) is one of a few Git interactive commands
 I became so fond of recently (another one I use quite frequently over the years
 is `git rebase -i`).
 
-In few words it displays the diff hunks and provides options either to stage all hunks, edit each one etc..
-
-It's not very easy describe the feature _literally_ in few words, so will leave the link to
-git scm book here https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging
+In few words it displays the diff hunks and provides options either to stage
+all hunks, edit each one etc..
 
 ## Example
 
@@ -67,3 +65,9 @@ Please pay attention to the notes below.
 # an opportunity to edit again. If all lines of the hunk are removed,
 # then the edit is aborted and the hunk is left unchanged.
 ```
+
+## More information
+
+It's not very easy describe the feature _literally_ in few words, so will leave
+the link to git scm book here
+https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging
